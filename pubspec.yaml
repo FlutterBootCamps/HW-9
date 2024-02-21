@@ -1,0 +1,45 @@
+name: games_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+ 
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+ 
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - images/cluth.png
+    - images/cyber.png
+    - images/hitman.png
+    - images/just.png
+    - images/ninja.png
+    - images/pricer.png
+    - images/solder.png
+    - images/about.png
+    - images/Notification.png
+    
+
+  
