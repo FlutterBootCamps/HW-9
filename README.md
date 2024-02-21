@@ -1,20 +1,16 @@
-# HW-9
+# hw9
 
-## Flutter UI Implementation Guide
+A new Flutter project.
 
-### How to Implement a UI Design in Flutter:
+## Getting Started
 
-1. **Study the Design**: Look at the UI design in Figma and understand how it looks.
-2. **Copy the Design**: Use Flutter to recreate the design as closely as possible.
-3. **Make it Work**: Ensure that all buttons and features work as intended.
-4. **Test It**: Try your UI on different devices to make sure it looks good everywhere.
-5. **Take Pictures**: Capture screenshots of your UI to show others.
-6. **Share Your Work**: Put those screenshots in your README file to show off your creation!
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-- UI to be implemented: [Figma Design Link](https://www.figma.com/file/id7WFc1LQIbXacHEhLv7ab/Game-Store-App-(Community)?type=design&node-id=0%3A1&mode=design&t=jpE9RIGzDT9l5EkK-1)
-
-
-- Finally, celebrate your success in successfully implementing the UI in Flutter!
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
