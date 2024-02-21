@@ -1,5 +1,16 @@
 # HW-9
 
+# StorePage:
+1-Iphone:![localhost_56841_(iPhone 14 Pro Max)](https://github.com/Saod5557/HW-9/assets/124809082/d6047f3e-66cf-41b2-b0e9-1195072aaf60)
+2-Galaxy: ![localhost_56841_(Samsung Galaxy S20 Ultra) (1)](https://github.com/Saod5557/HW-9/assets/124809082/b3a2adeb-18bf-4f9e-b31b-dd2db8704b5b)
+
+#AboutGamePage:
+1-Iphone:![localhost_56841_(iPhone 14 Pro Max) (1)](https://github.com/Saod5557/HW-9/assets/124809082/147e0c96-c2fd-45f3-84eb-4b4cdd8aa49d)
+
+
+2-Galaxy:![localhost_56841_(Samsung Galaxy S20 Ultra)](https://github.com/Saod5557/HW-9/assets/124809082/2e6ce4cc-b2d0-4283-a395-62d12c2ed0e6)
+
+
 ## Flutter UI Implementation Guide
 
 ### How to Implement a UI Design in Flutter:
