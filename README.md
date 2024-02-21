@@ -1,20 +1,12 @@
 # HW-9
 
-## Flutter UI Implementation Guide
+## Flutter UI Implementation 
 
-### How to Implement a UI Design in Flutter:
+- Home Screen:-
 
-1. **Study the Design**: Look at the UI design in Figma and understand how it looks.
-2. **Copy the Design**: Use Flutter to recreate the design as closely as possible.
-3. **Make it Work**: Ensure that all buttons and features work as intended.
-4. **Test It**: Try your UI on different devices to make sure it looks good everywhere.
-5. **Take Pictures**: Capture screenshots of your UI to show others.
-6. **Share Your Work**: Put those screenshots in your README file to show off your creation!
+<img width="146" alt="HW 9 home screen" src="https://github.com/AlaaMYahya/HW-9/assets/129466098/fa1ccf2c-e6a8-45dd-a10d-cc5960709ec4">
 
 
+- Game Details Screen:-
 
-
-- UI to be implemented: [Figma Design Link](https://www.figma.com/file/id7WFc1LQIbXacHEhLv7ab/Game-Store-App-(Community)?type=design&node-id=0%3A1&mode=design&t=jpE9RIGzDT9l5EkK-1)
-
-
-- Finally, celebrate your success in successfully implementing the UI in Flutter!
+<img width="146" alt="HW 9 game screen" src="https://github.com/AlaaMYahya/HW-9/assets/129466098/57c1fa33-f386-450a-8952-d57ffa79a786">
